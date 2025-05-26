@@ -14,15 +14,15 @@ cd price-tracker
 
 2️⃣ Install Dependencies   
 Run the following command inside the project folder:  
- npm install
-  or (for Yarn users):
+ npm install  
+  or (for Yarn users):  
  yarn install  
  
 3️⃣ Run the Development Server  
 For JavaScript-based projects:  
-   npm start
+   npm start  
 For TypeScript-based projects (if using Vite):  
-   npm run dev
+   npm run dev  
 4️⃣ Build for Production  
    npm run build  
 -Generates an optimized version inside the build/ folder for deployment.  
