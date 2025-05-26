@@ -1,4 +1,4 @@
- # Price Tracker  
+ # PriceWise  
 An intelligent **price tracking tool** for retail shop owners, enabling **real-time price monitoring**, supplier integration, and efficient inventory management.  
 
 ## 🚀 Features  
@@ -41,4 +41,4 @@ This project integrates AI-generated insights for price tracking. You can access
 
 📞 Contact
 For any inquiries or contributions, reach out via:
-Email: martinkieti6@gmail.com, mathiasfridah2@gmail.com, gwamukota@gmail.com
+Email: martinkieti6@gmail.com, mathiasfridah2@gmail.com, wandanelson287@gmail.com
