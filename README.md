@@ -33,8 +33,9 @@ Create branches for new features using:
     git checkout -b feature-name  
 Submit pull requests before merging new changes.  
 
-🌍 Live Demo
+🌍 Live Demo  
 Check out the live version of the project here: 🔗 https://price-tracker-test.netlify.app/  
+
 🤖 AI-Generated Prompt File  
 This project integrates AI-generated insights for price tracking. You can access the AI-generated prompt file here: 🔗 AI Prompt File  
 
