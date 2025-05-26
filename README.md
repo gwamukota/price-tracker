@@ -34,8 +34,10 @@ Create branches for new features using:
 Submit pull requests before merging new changes.  
 
 🌍 Live Demo
-Check out the live version of the project here: 🔗 https://price-tracker-test.netlify.app/
+Check out the live version of the project here: 🔗 https://price-tracker-test.netlify.app/  
+🤖 AI-Generated Prompt File  
+This project integrates AI-generated insights for price tracking. You can access the AI-generated prompt file here: 🔗 AI Prompt File  
 
 📞 Contact
 For any inquiries or contributions, reach out via:
-Email: martinkieti6@gmail.com, mathiasfridah2@gmail.com, 
+Email: martinkieti6@gmail.com, mathiasfridah2@gmail.com, gwamukota@gmail.com
