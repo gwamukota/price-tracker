@@ -37,7 +37,7 @@ Submit pull requests before merging new changes.
 Check out the live version of the project here: 🔗 https://price-tracker-test.netlify.app/  
 
 🤖 AI-Generated Prompt File  
-This project integrates AI-generated insights for price tracking. You can access the AI-generated prompt file here: 🔗 AI Prompt File  
+This project integrates AI-generated insights for price tracking. You can access the AI-generated prompt file here: 🔗 AI Prompt File [https://docs.google.com/document/d/1YNU40VABve8SWiWBc9xK0WA3LhScd90jzoOORJaQ8ao/edit?usp=sharing] 
 
 📞 Contact
 For any inquiries or contributions, reach out via:
